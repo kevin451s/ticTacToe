@@ -1,0 +1,11 @@
+div {
+	border:1px solid black;
+}
+button {
+	padding: 4px;
+	margin: 0 auto;
+	border:1px solid black;
+}
+div .container .row .col-md-4 {
+	border: 1px solid black;
+}
